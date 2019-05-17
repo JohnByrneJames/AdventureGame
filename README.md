@@ -6,3 +6,4 @@ The game features a 3D platformer type game with customized skeletons, animation
 Working as of [17/05/19] !Large File! 12GB +
 
 This project features a lot of C++ techniques that are native to Engine such as TMaps and TArrays, these are demonstrated throughout the program, the HUD is also hardcoded instead of using the SLATE plugin.. 
+All Assets in this game are royalty free and can be found at: https://www.kenney.nl/assets
